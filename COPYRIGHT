@@ -10,15 +10,14 @@ PARTICULAR PURPOSE. See the GNU General Public License for more details.
 You should have received a copy of the GNU General Public License along with
 this program. If not, see <https://www.gnu.org/licenses/>.
 
+Assets (all located in ./assets in source and ./FASTMATH/_internal/assets in a
+binary) not listed below are owned by SociableFish and licensed under CC
+BY-NC-ND 4.0.
+
 GNU GPL Version 3.0 located in ./LICENSES/GPL-3.0-or-later.txt.
+CC BY-NC-ND Version 4.0 located in ./LICENSES/CC-BY-NC-ND-4.0.txt.
 
 This program depends on other separately copyrighted intellectual properties:
-
---------------------------------------------------------------------------------
-
-FAST MATH Logo and App Icon
-
-Copyright 2026 SociableFish. All rights reserved.
 
 --------------------------------------------------------------------------------
 

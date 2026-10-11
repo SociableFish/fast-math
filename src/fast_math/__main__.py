@@ -6,6 +6,7 @@ from typing import Any, NoReturn
 
 import pygame
 
+from fast_math.constants import ASSETS
 from fast_math import errors
 from fast_math.errors import CustomErrorMessageBox
 from fast_math import gfx
@@ -17,7 +18,7 @@ def main() -> NoReturn:
         pygame.display.init()
         window: pygame.Surface = \
             pygame.display.set_mode(gfx.DIMENSIONS, vsync=True)
-        # pygame.display.set_icon(LOGO)
+        pygame.display.set_icon(gfx.get_image(ASSETS / "icon.ico"))
         pygame.display.set_caption("FAST MATH")
         screens.State(window).event_loop()
     except FileNotFoundError as exc:
