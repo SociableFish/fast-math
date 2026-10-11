@@ -184,8 +184,9 @@ def random_int_mul_question(digits: int, /) -> Question[int]:
 
 
 def random_int_div_question(digits: int, /) -> Question[int]:
-    lhs: int = random_nonzero_int_with_digits(digits)
-    rhs: int = random_nonzero_int_with_digits((digits + 1) // 2)
+    lhs: int = random_nonzero_int_with_digits(digits, allow_negative=False)
+    rhs: int = \
+        random_nonzero_int_with_digits((digits + 1) // 2, allow_negative=False)
     operation: str = random.choice(("quotient", "remainder"))
     return Question(
         question=f"{lhs} / {rhs} ({operation})",
