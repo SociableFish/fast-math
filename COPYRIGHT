@@ -1,0 +1,80 @@
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (at your option) any later
+version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with
+this program. If not, see <https://www.gnu.org/licenses/>.
+
+GNU GPL Version 3.0 located in ./LICENSES/GPL-3.0-or-later.txt.
+
+This program depends on other separately copyrighted intellectual properties:
+
+--------------------------------------------------------------------------------
+
+FAST MATH Logo
+
+Copyright 2026 SociableFish. All rights reserved.
+
+--------------------------------------------------------------------------------
+
+Python (Only distributed in binaries)
+
+Copyright 2001 Python Software Foundation. All rights reserved.
+
+Licensed under Python Software Foundation License Version 2.
+
+Required modification summary:
+Unmodified.
+
+Python Software Foundation License Version 2 located in ./LICENSES/PSF-2.0.txt.
+
+--------------------------------------------------------------------------------
+
+PyInstaller Bootloader and Run-time Hooks (Only distributed in binaries)
+
+Copyright (c) 2010-2023, PyInstaller Development Team
+Copyright (c) 2005-2009, Giovanni Bajo
+Based on previous work under copyright (c) 2002 McMillan Enterprises, Inc.
+
+PyInstaller is licensed under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2 of the License,
+or (at your option) any later version.
+
+Run-time Hooks are a different kind of files embedded within the final
+executable. To ease moving them into a separate repository, or into the
+respective project, these files are now licensed under the Apache License,
+Version 2.0.
+
+GNU GPL Version 2.0 located in ./LICENSES/GPL-2.0-or-later.txt.
+Apache License Version 2.0 located in ./LICENSES/Apache-2.0.txt.
+
+--------------------------------------------------------------------------------
+
+Pygame Community Edition (Only distributed in binaries)
+
+Licensed under GNU LGPL Version 2.1 or later.
+
+GNU LGPL Version 2.1 located in ./LICENSES/LGPL-2.1-or-later.txt.
+
+--------------------------------------------------------------------------------
+
+Setuptools
+
+Licensed under MIT License.
+
+MIT License located in ./LICENSES/MIT.txt.
+
+--------------------------------------------------------------------------------
+
+Inconsolata Font
+
+Copyright 2006 The Inconsolata Project Authors. All rights reserved.
+
+Licensed under SIL Open Font License, Version 1.1.
+
+SIL Open Font License, Version 1.1 located in ./LICENSES/OFL-1.1.txt.

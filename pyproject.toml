@@ -1,0 +1,31 @@
+[build-system]
+requires = [
+    "setuptools==83.0.0",
+]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fast-math"
+version = "0.1.0"
+description = "FAST MATH app."
+readme = "README.md"
+requires-python = "==3.14.6"
+license = "GPL-3.0-or-later"
+license-files = [
+    "COPYRIGHT",
+    "LICENSES/**"
+]
+authors = [
+    {name = "SociableFish"}
+]
+maintainers = [
+    {name = "SociableFish"}
+]
+dependencies = [
+    "numpy==2.5.1",
+    "pyinstaller==6.21.0",
+    "pygame-ce==2.5.7",
+]
+
+[project.scripts]
+myapp = "fast_math.__main__:main"
