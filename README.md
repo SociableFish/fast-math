@@ -1,7 +1,5 @@
 # FAST MATH
 
-(I will respond to takedown requests from an official source.)
-
 ## WARRIORHACKS 2.0 DISCLOSURES
 
 This app is adapted from (as of now, unpublished) previous personal code written
