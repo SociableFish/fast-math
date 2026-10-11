@@ -13,7 +13,9 @@ In the folder you download, it is `FASTMATH.exe` in the `FASTMATH` folder.
 Other contents of the folder contain useful information about the app, but not
 ultimately needed to run it.
 
-For now, this is a simple app 
+For now, this is a simple app.
+
+To advance to the next question, press Enter.
 
 This app is portable (no installation needed). You only need the `FASTMATH`
 folder, which need not be called that.
